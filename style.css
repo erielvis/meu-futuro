@@ -12,7 +12,7 @@
     background-color: aqua;
     }
     .img{
-    max-width: 50%;
+    max-width: 25%;
     height: auto;
     border-radius: 10px;
     }
@@ -20,7 +20,7 @@
         background-color: aquamarine;
         color: black;
         padding: 25px;
-        margin: 20px;
+        margin: 25px;
         text-align: center;
-        font-size: 20px;
+        font-size: 25px;
     }
