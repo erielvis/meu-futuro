@@ -1,5 +1,6 @@
 .cabeçalho{
-    background-color: rgb(0, 255, 13);
+    background-color: rgb(0, 217
+    , 255);
     color: black;
     text-align: center;
     padding: 15px;
@@ -10,11 +11,11 @@
     font-family: Arial, Helvetica, sans-serif;
     margin: 10;
     padding: 10;
-    background-color: rgb(0, 255, 13);
+    background-color: rgb(0, 217, 255);
     border-radius: 20px;
     }
     .img{
-    max-width: 5%;
+    max-width: 50%;
     width: 10%;
     border-radius: 5px;
     }
