@@ -1,5 +1,5 @@
 .cabeçalho{
-    background-color: aquamarine;
+    background-color: rgb(127, 214, 255);
     color: black;
     text-align: center;
     padding: 15px;
@@ -19,7 +19,7 @@
     border-radius: 5px;
     }
     .sonhos{
-        background-color: aquamarine;
+        background-color: rgb(168, 255, 127);
         color: black;
         padding: 25px;
         margin: 50px;
